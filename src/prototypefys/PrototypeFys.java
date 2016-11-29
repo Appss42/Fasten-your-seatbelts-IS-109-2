@@ -24,7 +24,7 @@ import nl.hva.hboict.sql.DataTable;
 import nl.hva.hboict.sql.SQLDataBase;
 
 /**
- *
+ *y ertkerlgdf
  * @author Koen Hengsdijk
  */
 public class PrototypeFys extends Application {
